@@ -21,6 +21,7 @@ which is essential for profitability and resource management. Strategies to prev
     Contingency Funds: Allocate a contingency budget for unexpected expenses.
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+
 Waterfall:
 
     Advantages:
